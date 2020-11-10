@@ -27,3 +27,6 @@ package-lock.json
 
 #Visual Code Studio Path
 .vscode
+
+#Pycharm Path
+.idea
