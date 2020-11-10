@@ -1,4 +1,4 @@
-# Introduction to Data Science Assignments
+# Computer Vision I Exercises
 
 ## Getting Started
 
@@ -11,15 +11,14 @@ $
 $ # Make an Conda env and install the needed packages
 $  conda create --yes --name cv2020 python=3.6 numpy scipy scikit-image scikit-learn imageio matplotlib jupyter notebook jupyter_contrib_nbextensions jupyter_nbextensions_configurator
 $
-$
-$ # Activate the enviroment and run jupyter note
-$ conda activate env-IDS2020
+$ # Activate the enviroment
+$ conda activate cv2020
 $
 $ # Install OpenCV
 $ conda install --yes opencv3 -c menpo
 ```
 
-## Authors:
+## Authors
 * **Danial Hezarkhani**
 
 ## License
